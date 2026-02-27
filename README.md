@@ -202,44 +202,4 @@ return ( <div className="min-h-screen bg-gray-50 p-6"> <motion.div initial={{ op
     }
 
     form button:hover {
-        background: #203a43;
-    }
-</style>
-
-</head>
-<body><header>
-    <h1>Finanças Inteligentes</h1>
-    <p>Aprenda a organizar sua vida financeira e conquistar liberdade financeira</p>
-    <a href="#conteudos" class="btn">Ver Conteúdos</a>
-</header><section id="conteudos">
-    <h2>Principais Conteúdos</h2>
-    <div class="cards">
-        <div class="card">
-            <h3>📊 Controle Financeiro</h3>
-            <p>Aprenda a organizar seus gastos e sair do vermelho com métodos simples.</p>
-        </div>
-        <div class="card">
-            <h3>💰 Renda Extra</h3>
-            <p>Ideias práticas para aumentar sua renda e acelerar seus objetivos.</p>
-        </div>
-        <div class="card">
-            <h3>📈 Investimentos</h3>
-            <p>Primeiros passos para investir com segurança mesmo começando do zero.</p>
-        </div>
-    </div>
-</section><section>
-    <h2>Baixe meu eBook gratuito</h2>
-    <p>Em breve disponível: Guia prático para organizar sua vida financeira.</p>
-    <a href="#contato" class="btn">Quero Receber</a>
-</section><section id="contato">
-    <h2>Entre em Contato</h2>
-    <form>
-        <input type="text" placeholder="Seu nome" required>
-        <input type="email" placeholder="Seu e-mail" required>
-        <textarea rows="4" placeholder="Sua mensagem"></textarea>
-        <button type="submit">Enviar</button>
-    </form>
-</section><footer>
-    <p>© 2026 Wilian Alves - Todos os direitos reservados</p>
-</footer></body>
-</html>
+        background: #203a4
